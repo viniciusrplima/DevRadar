@@ -6,19 +6,19 @@ Verifique os ips e as portas antes de testar. Altere o endereço do mongo para a
 ### Inicialização
 
 backend:
-'''
+```
 cd backend
 yarn dev
-'''
+```
 
 web:
-'''
+```
 cd web
 yarn start
-'''
+```
 
 mobile:
-'''
+```
 cd mobile
 yarn start
-'''
+```
