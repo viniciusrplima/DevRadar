@@ -1,6 +1,4 @@
 # DevRadar
-Sistema para rastrear desenvolvedores que utilizam as mesmas tecnologias perto de você.
-
 Sistema desenvolvido durante a Décima Semana Omnistack organizada pela Rocketseat.
 
 Verifique os ips e as portas antes de testar. Altere o endereço do mongo para a sua conta.
